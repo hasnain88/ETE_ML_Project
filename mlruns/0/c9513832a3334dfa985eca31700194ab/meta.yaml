@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data%20Science/End%20to%20End%20Data%20Science%20Project/mlruns/0/c9513832a3334dfa985eca31700194ab/artifacts
+end_time: 1711074846466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9513832a3334dfa985eca31700194ab
+run_name: dazzling-stork-855
+run_uuid: c9513832a3334dfa985eca31700194ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711074838003
+status: 3
+tags: []
+user_id: root
